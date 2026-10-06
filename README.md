@@ -1,2 +1,2 @@
-# so_algoritmo
-Algoritmos básicos en Java y C
+# so_algoritmos
+Practicas sobre paradigmas de programación, compiladores en interpretes
